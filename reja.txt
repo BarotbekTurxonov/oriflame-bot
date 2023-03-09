@@ -1,0 +1,25 @@
+1. Malumotlar bazasi to'liq (Sqlite3)
+2. Admin va user uchun alohida keyboardlar
+3. Admin panel uchun to'liq
+4. User uchun to'liq
+5. Guruhda moderator
+
+
+
+Yangi o'zgarish
+6. Odam qo'shganini hisoblash
+7. avto o'chirgich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
